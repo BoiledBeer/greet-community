@@ -9,6 +9,8 @@ Greeting tools for the community.
 ## Use
 
     from greet_community import greet
+    python -c "from greet_community import greet; print(greet('Hee'))"
+    Hello, Hee!
 
 ## Contribute
 
